@@ -1,10 +1,10 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Arina.
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I am Arina.
 
 <p align="justify">
-  I am a data science learner. I am a collaborative person, with a dedication, to partnering with coworkers to promote an engaging, empowering work value system. Documented strengths in building and maintaining relationships with a diverse field of decision-makers in dynamic, fast-paced settings who care about data for the customer and organization. I have passionate about Big Data, Artificial Intelligence and Machine Learning.
+  I am a dedicated data science enthusiast driven by a relentless passion for unlocking the untapped potential of Big Data, Artificial Intelligence, and Machine Learning. As a collaborative individual, I thrive on cultivating meaningful partnerships with coworkers, fostering an environment of shared knowledge, and empowering our team to create impactful solutions. With a proven track record of building strong relationships with diverse decision-makers in dynamic, fast-paced settings, I am deeply committed to leveraging the power of data to drive customer-centric outcomes and propel organizational growth.
 </p>
 
-## 🔍 You Can Find Me at
+## 🔍 You can find me at:
 
 <p>
   <a href="https://www.linkedin.com/in/moonarina" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   
