@@ -5,7 +5,7 @@
   I am a dedicated data science enthusiast driven by a relentless passion for unlocking the untapped potential of Big Data, Artificial Intelligence, and Machine Learning. As a collaborative individual, I thrive on cultivating meaningful partnerships with coworkers, fostering an environment of shared knowledge, and empowering our team to create impactful solutions. With a proven track record of building strong relationships with diverse decision-makers in dynamic, fast-paced settings, I am deeply committed to leveraging the power of data to drive customer-centric outcomes and propel organizational growth.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> 
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
