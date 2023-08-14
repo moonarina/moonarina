@@ -18,7 +18,7 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a> 
   <a href="https://
 
-## 🔍 Find me at:
+<h3 align="left">🔍 Find me at:</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/moonarina" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   
